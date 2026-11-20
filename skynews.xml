@@ -5,41 +5,6 @@
     <display-name>Sky News</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png" />
   </channel>
-  <programme start="20261117090000 +0000" stop="20261117093000 +0000" channel="SkyNews.uk">
-    <title lang="en">Mornings with Ridge and Frost</title>
-    <desc lang="en">All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a98c8389-3848-44a1-85bb-ebbdddc38c8a/16-9/1024" />
-  </programme>
-  <programme start="20261117093000 +0000" stop="20261117100000 +0000" channel="SkyNews.uk">
-    <title lang="en">Mornings with Ridge and Frost</title>
-    <desc lang="en">All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e32c0c2e-2866-4753-99fd-7360b4f53e3b/16-9/1024" />
-  </programme>
-  <programme start="20261117100000 +0000" stop="20261117103000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News Today with Gareth Barlow</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/3447f51a-d679-4359-a5a4-e11d4151904c/16-9/1024" />
-  </programme>
-  <programme start="20261117103000 +0000" stop="20261117110000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News Today with Gareth Barlow</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/cd0acad0-8245-4641-8479-620765c28ed5/16-9/1024" />
-  </programme>
-  <programme start="20261117110000 +0000" stop="20261117113000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News Today with Gareth Barlow</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b81efb70-5147-424a-9e67-42030ef811cb/16-9/1024" />
-  </programme>
-  <programme start="20261117113000 +0000" stop="20261117120000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News Today with Gareth Barlow</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/242dd554-a970-4572-806f-f4fcfbdfdeee/16-9/1024" />
-  </programme>
-  <programme start="20261117120000 +0000" stop="20261117123000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News Today with Gareth Barlow</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4faacb85-9fc2-4466-8525-37081e94d665/16-9/1024" />
-  </programme>
   <programme start="20261117123000 +0000" stop="20261117130000 +0000" channel="SkyNews.uk">
     <title lang="en">Sky News Today with Gareth Barlow</title>
     <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
@@ -857,7 +822,8 @@
   </programme>
   <programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="SkyNews.uk">
     <title lang="en">Sky Kids Investigates: Being A Boy</title>
-    <icon src="https://images.metadata.sky.com/pd-image/4ffdf8ab-3ce1-434c-ae28-8e8b6a895ff8/16-9/1024" />
+    <desc lang="en">Sixteen-year-old Josh explores the pressures boys face today and investigates how the manosphere is influencing the way they think, feel and behave.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9541aca1-f9ac-4dd6-bd60-9abd3ba98243/16-9/1024" />
   </programme>
   <programme start="20261121150000 +0000" stop="20261121153000 +0000" channel="SkyNews.uk">
     <title lang="en">Sky News Today</title>
@@ -1061,7 +1027,8 @@
   </programme>
   <programme start="20261122153000 +0000" stop="20261122160000 +0000" channel="SkyNews.uk">
     <title lang="en">Sky Kids Investigates: Being A Boy</title>
-    <icon src="https://images.metadata.sky.com/pd-image/19eb3dcc-dbba-4578-b60c-3c8322a1f8b4/16-9/1024" />
+    <desc lang="en">Sixteen-year-old Josh explores the pressures boys face today and investigates how the manosphere is influencing the way they think, feel and behave.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/9541aca1-f9ac-4dd6-bd60-9abd3ba98243/16-9/1024" />
   </programme>
   <programme start="20261122160000 +0000" stop="20261122163000 +0000" channel="SkyNews.uk">
     <title lang="en">Sky News Today</title>
