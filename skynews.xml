@@ -5,46 +5,6 @@
     <display-name>Sky News</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png" />
   </channel>
-  <programme start="20261118160000 +0000" stop="20261118163000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News Today with Jayne Secker</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/4c111705-11fe-4ccf-b7b0-b057bb0e8f75/16-9/1024" />
-  </programme>
-  <programme start="20261118163000 +0000" stop="20261118170000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News Today with Jayne Secker</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/fe291c73-c0da-433a-bd02-56a6d6a8278c/16-9/1024" />
-  </programme>
-  <programme start="20261118170000 +0000" stop="20261118173000 +0000" channel="SkyNews.uk">
-    <title lang="en">The News Hour With Mark Austin</title>
-    <desc lang="en">A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/319cb7cd-c2c0-436a-b29b-110c6051780b/16-9/1024" />
-  </programme>
-  <programme start="20261118173000 +0000" stop="20261118180000 +0000" channel="SkyNews.uk">
-    <title lang="en">The News Hour With Mark Austin</title>
-    <desc lang="en">A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/128a3ef3-9dc0-407d-ac0e-0c22280107f0/16-9/1024" />
-  </programme>
-  <programme start="20261118180000 +0000" stop="20261118183000 +0000" channel="SkyNews.uk">
-    <title lang="en">The News Hour With Mark Austin</title>
-    <desc lang="en">A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/8985b23c-3069-4795-87f1-9bb9eedb5cc1/16-9/1024" />
-  </programme>
-  <programme start="20261118183000 +0000" stop="20261118190000 +0000" channel="SkyNews.uk">
-    <title lang="en">The News Hour With Mark Austin</title>
-    <desc lang="en">A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/79d9514b-1040-4caf-baa2-24f2b6dafe7b/16-9/1024" />
-  </programme>
-  <programme start="20261118190000 +0000" stop="20261118200000 +0000" channel="SkyNews.uk">
-    <title lang="en">The Cathy Newman Show</title>
-    <desc lang="en">Cathy Newman presents the day's biggest stories, including news-making interviews, debate and straight-talking analysis from Westminster and beyond.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/b45bb1e5-40b8-44a1-a562-af163568bace/16-9/1024" />
-  </programme>
-  <programme start="20261118200000 +0000" stop="20261118210000 +0000" channel="SkyNews.uk">
-    <title lang="en">UK Tonight With Sarah-Jane Mee</title>
-    <desc lang="en">Sarah-Jane Mee has all the latest news from across the UK.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/ca08efa4-ff19-4a99-8a65-faa8bf1a77a0/16-9/1024" />
-  </programme>
   <programme start="20261118210000 +0000" stop="20261118220000 +0000" channel="SkyNews.uk">
     <title lang="en">The World with Yalda Hakim</title>
     <desc lang="en">Eyewitness reports, interviews and analysis on the big stories around the world with Yalda Hakim.</desc>
