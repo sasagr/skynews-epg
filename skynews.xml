@@ -5,116 +5,6 @@
     <display-name>Sky News</display-name>
     <icon src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-news-uk.png" />
   </channel>
-  <programme start="20261120140000 +0000" stop="20261120143000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News Today</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/5b1dd0a9-5f7d-4019-9213-679c4c10212f/16-9/1024" />
-  </programme>
-  <programme start="20261120143000 +0000" stop="20261120150000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News Today</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/c0e8d8f6-50a0-4d99-b6f7-ddb3a6546c55/16-9/1024" />
-  </programme>
-  <programme start="20261120150000 +0000" stop="20261120153000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News Today</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/aa01d307-366a-44f5-be7e-7312523a4020/16-9/1024" />
-  </programme>
-  <programme start="20261120153000 +0000" stop="20261120160000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News Today</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/676526c8-c1de-41e3-9011-5745915cde04/16-9/1024" />
-  </programme>
-  <programme start="20261120160000 +0000" stop="20261120163000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News Today</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/a017320c-a73c-4845-a0b7-276d87bacd18/16-9/1024" />
-  </programme>
-  <programme start="20261120163000 +0000" stop="20261120170000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News Today</title>
-    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/2e52a34a-ddf1-45dc-add8-a615cf622562/16-9/1024" />
-  </programme>
-  <programme start="20261120170000 +0000" stop="20261120173000 +0000" channel="SkyNews.uk">
-    <title lang="en">News Hour with Jonathan Samuels</title>
-    <desc lang="en">A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f8d7d67e-be39-4c74-9229-e4d17d97d546/16-9/1024" />
-  </programme>
-  <programme start="20261120173000 +0000" stop="20261120180000 +0000" channel="SkyNews.uk">
-    <title lang="en">News Hour with Jonathan Samuels</title>
-    <desc lang="en">A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/155b2936-dfdf-4580-bef0-b98f190907c9/16-9/1024" />
-  </programme>
-  <programme start="20261120180000 +0000" stop="20261120183000 +0000" channel="SkyNews.uk">
-    <title lang="en">News Hour with Jonathan Samuels</title>
-    <desc lang="en">A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7e6c4aa6-7212-4550-b53e-e7c7ec9edcd5/16-9/1024" />
-  </programme>
-  <programme start="20261120183000 +0000" stop="20261120190000 +0000" channel="SkyNews.uk">
-    <title lang="en">News Hour with Jonathan Samuels</title>
-    <desc lang="en">A comprehensive round-up of the days biggest news stories, including analysis and insight from Sky News correspondents.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/f20d7628-2fde-42b6-8177-ce8bcf19b7bd/16-9/1024" />
-  </programme>
-  <programme start="20261120190000 +0000" stop="20261120193000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/406c87a4-7c8b-45aa-8526-3c8682715890/16-9/1024" />
-  </programme>
-  <programme start="20261120193000 +0000" stop="20261120200000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/20a1d8ba-8be2-4a98-a063-affd1c9a749c/16-9/1024" />
-  </programme>
-  <programme start="20261120200000 +0000" stop="20261120203000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/93752bab-73bc-46d1-8b5e-d526c8a116af/16-9/1024" />
-  </programme>
-  <programme start="20261120203000 +0000" stop="20261120210000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/08bc7144-7c5c-4e51-8fd8-b8f2988695e9/16-9/1024" />
-  </programme>
-  <programme start="20261120210000 +0000" stop="20261120213000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/05e0ae47-ad76-4073-8d86-ac5216112c65/16-9/1024" />
-  </programme>
-  <programme start="20261120213000 +0000" stop="20261120220000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/95e43f33-bfc5-4f14-9004-5d440394c6b8/16-9/1024" />
-  </programme>
-  <programme start="20261120220000 +0000" stop="20261120223000 +0000" channel="SkyNews.uk">
-    <title lang="en">The Wrap With Gillian Joseph</title>
-    <desc lang="en">Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/25851bae-dabb-41ba-bd12-b44ccadd5112/16-9/1024" />
-  </programme>
-  <programme start="20261120223000 +0000" stop="20261120230000 +0000" channel="SkyNews.uk">
-    <title lang="en">The Wrap With Gillian Joseph</title>
-    <desc lang="en">Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/45627d55-762e-4453-96f1-aede808e2813/16-9/1024" />
-  </programme>
-  <programme start="20261120230000 +0000" stop="20261120233000 +0000" channel="SkyNews.uk">
-    <title lang="en">The Wrap With Gillian Joseph</title>
-    <desc lang="en">Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/bf37e40d-993e-40be-83da-f71e457373cb/16-9/1024" />
-  </programme>
-  <programme start="20261120233000 +0000" stop="20261121000000 +0000" channel="SkyNews.uk">
-    <title lang="en">The Wrap With Gillian Joseph</title>
-    <desc lang="en">Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/d91060ff-8964-4e3f-95fe-b2d3bd108435/16-9/1024" />
-  </programme>
-  <programme start="20261121000000 +0000" stop="20261121010000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/7fe5a5af-4fc5-4735-9be9-43cb20c5cc8d/16-9/1024" />
-  </programme>
-  <programme start="20261121010000 +0000" stop="20261121020000 +0000" channel="SkyNews.uk">
-    <title lang="en">Sky News</title>
-    <desc lang="en">A round up of all the latest news from the UK and around the world.</desc>
-    <icon src="https://images.metadata.sky.com/pd-image/e184892b-052f-4216-a38b-e8610bb3b7c4/16-9/1024" />
-  </programme>
   <programme start="20261121020000 +0000" stop="20261121030000 +0000" channel="SkyNews.uk">
     <title lang="en">Sky News</title>
     <desc lang="en">A round up of all the latest news from the UK and around the world.</desc>
@@ -2099,5 +1989,200 @@
     <title lang="en">The Wrap With Anna Botting</title>
     <desc lang="en">Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
     <icon src="https://images.metadata.sky.com/pd-image/1ecb4401-6303-4db2-8344-8e6310d76d59/16-9/1024" />
+  </programme>
+  <programme start="20261201000000 +0000" stop="20261201010000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/fdb84a0d-2a2f-44a5-81c2-a4063171e8f0/16-9/1024" />
+  </programme>
+  <programme start="20261201010000 +0000" stop="20261201020000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e67ed3de-9a1d-41ee-b39f-6dd1a059d4f8/16-9/1024" />
+  </programme>
+  <programme start="20261201020000 +0000" stop="20261201030000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/37d1bde7-38ed-4957-a35e-07d99a9b2283/16-9/1024" />
+  </programme>
+  <programme start="20261201030000 +0000" stop="20261201040000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b2d2f59e-b731-4df5-a34b-f1751d4a5e8b/16-9/1024" />
+  </programme>
+  <programme start="20261201040000 +0000" stop="20261201050000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/bbd2c6d9-a5b2-4525-88bf-c32c510cc3d2/16-9/1024" />
+  </programme>
+  <programme start="20261201050000 +0000" stop="20261201060000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News</title>
+    <desc lang="en">A round up of all the latest news from the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4e4acef3-c17d-4bb4-b9a3-3c3662851709/16-9/1024" />
+  </programme>
+  <programme start="20261201060000 +0000" stop="20261201063000 +0000" channel="SkyNews.uk">
+    <title lang="en">Mornings</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b98abe9d-7d00-47e2-9b8d-e6039407b989/16-9/1024" />
+  </programme>
+  <programme start="20261201063000 +0000" stop="20261201070000 +0000" channel="SkyNews.uk">
+    <title lang="en">Mornings</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/682c9d27-76a5-4868-90cf-fea777754bd4/16-9/1024" />
+  </programme>
+  <programme start="20261201070000 +0000" stop="20261201073000 +0000" channel="SkyNews.uk">
+    <title lang="en">Mornings with Ridge and Frost</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f039d0b2-b8ac-4cf4-aef0-a4a43faae3c8/16-9/1024" />
+  </programme>
+  <programme start="20261201073000 +0000" stop="20261201080000 +0000" channel="SkyNews.uk">
+    <title lang="en">Mornings with Ridge and Frost</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f20f2319-0f01-4847-b86c-523991b64954/16-9/1024" />
+  </programme>
+  <programme start="20261201080000 +0000" stop="20261201083000 +0000" channel="SkyNews.uk">
+    <title lang="en">Mornings with Ridge and Frost</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a57dfd3e-cb67-4de4-9749-6cd397acae33/16-9/1024" />
+  </programme>
+  <programme start="20261201083000 +0000" stop="20261201090000 +0000" channel="SkyNews.uk">
+    <title lang="en">Mornings with Ridge and Frost</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/7ff90e8c-eceb-46c3-afb0-33117b57f107/16-9/1024" />
+  </programme>
+  <programme start="20261201090000 +0000" stop="20261201093000 +0000" channel="SkyNews.uk">
+    <title lang="en">Mornings with Ridge and Frost</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/83c7d889-397f-4037-a743-1bae71939a06/16-9/1024" />
+  </programme>
+  <programme start="20261201093000 +0000" stop="20261201100000 +0000" channel="SkyNews.uk">
+    <title lang="en">Mornings with Ridge and Frost</title>
+    <desc lang="en">All the big stories of the morning plus news making interviews, analysis and eyewitness reports from around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/48462e12-54ca-4ae7-a946-2a1da6413097/16-9/1024" />
+  </programme>
+  <programme start="20261201100000 +0000" stop="20261201103000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News Today with Gareth Barlow</title>
+    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/974e32da-e24f-4027-a109-3a8f05a42eba/16-9/1024" />
+  </programme>
+  <programme start="20261201103000 +0000" stop="20261201110000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News Today with Gareth Barlow</title>
+    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/a220f3a2-2b07-4e90-89b5-ab70b462497e/16-9/1024" />
+  </programme>
+  <programme start="20261201110000 +0000" stop="20261201113000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News Today with Gareth Barlow</title>
+    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d9244023-7f8a-49e6-af6a-b72f097d4ec7/16-9/1024" />
+  </programme>
+  <programme start="20261201113000 +0000" stop="20261201120000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News Today with Gareth Barlow</title>
+    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6f1dae36-8339-4049-9218-ddf67501105d/16-9/1024" />
+  </programme>
+  <programme start="20261201120000 +0000" stop="20261201123000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News Today with Gareth Barlow</title>
+    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/35d3c8d3-89f0-4436-ad11-0a15e4e0a7c5/16-9/1024" />
+  </programme>
+  <programme start="20261201123000 +0000" stop="20261201130000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News Today with Gareth Barlow</title>
+    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/27f74356-cb06-42c3-9527-bc905685d124/16-9/1024" />
+  </programme>
+  <programme start="20261201130000 +0000" stop="20261201133000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News Today with Jayne Secker</title>
+    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/5c2b505a-3739-4653-8354-a46091ae5ce5/16-9/1024" />
+  </programme>
+  <programme start="20261201133000 +0000" stop="20261201140000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News Today with Jayne Secker</title>
+    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d273f14a-fb80-4f4f-8518-55c1ecf41022/16-9/1024" />
+  </programme>
+  <programme start="20261201140000 +0000" stop="20261201143000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News Today with Jayne Secker</title>
+    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/1c504875-e174-4ba4-9b5d-ea18cd2680da/16-9/1024" />
+  </programme>
+  <programme start="20261201143000 +0000" stop="20261201150000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News Today with Jayne Secker</title>
+    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/d1da0c9a-cf09-42d2-8118-b5e46429adbc/16-9/1024" />
+  </programme>
+  <programme start="20261201150000 +0000" stop="20261201153000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News Today with Jayne Secker</title>
+    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/03f972b9-f546-489b-8a27-10b2ecac0232/16-9/1024" />
+  </programme>
+  <programme start="20261201153000 +0000" stop="20261201160000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News Today with Jayne Secker</title>
+    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8c3ca0d2-c208-477c-a3aa-344e944feeed/16-9/1024" />
+  </programme>
+  <programme start="20261201160000 +0000" stop="20261201163000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News Today with Jayne Secker</title>
+    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/6d39a28d-1316-41d3-a794-52ce438bdc44/16-9/1024" />
+  </programme>
+  <programme start="20261201163000 +0000" stop="20261201170000 +0000" channel="SkyNews.uk">
+    <title lang="en">Sky News Today with Jayne Secker</title>
+    <desc lang="en">Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b4fcdecd-bc21-4732-a81c-cdca31cbe096/16-9/1024" />
+  </programme>
+  <programme start="20261201170000 +0000" stop="20261201173000 +0000" channel="SkyNews.uk">
+    <title lang="en">The News Hour With Mark Austin</title>
+    <desc lang="en">A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f95b8c22-58c0-4869-a359-cb453200fd36/16-9/1024" />
+  </programme>
+  <programme start="20261201173000 +0000" stop="20261201180000 +0000" channel="SkyNews.uk">
+    <title lang="en">The News Hour With Mark Austin</title>
+    <desc lang="en">A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/e0e443f1-4c4a-49b5-8e36-d4e57993cdf4/16-9/1024" />
+  </programme>
+  <programme start="20261201180000 +0000" stop="20261201183000 +0000" channel="SkyNews.uk">
+    <title lang="en">The News Hour With Mark Austin</title>
+    <desc lang="en">A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/57e70cad-3b66-437d-b5d6-8b2de64fd296/16-9/1024" />
+  </programme>
+  <programme start="20261201183000 +0000" stop="20261201190000 +0000" channel="SkyNews.uk">
+    <title lang="en">The News Hour With Mark Austin</title>
+    <desc lang="en">A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/3bfc7013-b0a9-4c72-aa9f-65d116148ae7/16-9/1024" />
+  </programme>
+  <programme start="20261201190000 +0000" stop="20261201200000 +0000" channel="SkyNews.uk">
+    <title lang="en">The Cathy Newman Show</title>
+    <desc lang="en">Cathy Newman presents the day's biggest stories, including news-making interviews, debate and straight-talking analysis from Westminster and beyond.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/b1c87eda-d58c-4c7d-a938-cfe5f9c4ef67/16-9/1024" />
+  </programme>
+  <programme start="20261201200000 +0000" stop="20261201210000 +0000" channel="SkyNews.uk">
+    <title lang="en">UK Tonight With Sarah-Jane Mee</title>
+    <desc lang="en">Sarah-Jane Mee has all the latest news from across the UK.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/ea189940-99fd-46d6-876b-8907faaa87b3/16-9/1024" />
+  </programme>
+  <programme start="20261201210000 +0000" stop="20261201220000 +0000" channel="SkyNews.uk">
+    <title lang="en">The World with Yalda Hakim</title>
+    <desc lang="en">Eyewitness reports, interviews and analysis on the big stories around the world with Yalda Hakim.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/63e9fc77-f787-40f7-977c-dbb5c210338d/16-9/1024" />
+  </programme>
+  <programme start="20261201220000 +0000" stop="20261201223000 +0000" channel="SkyNews.uk">
+    <title lang="en">The Wrap With Anna Botting</title>
+    <desc lang="en">Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/4f4414cb-f9e9-4824-b6b3-4f609041fd9b/16-9/1024" />
+  </programme>
+  <programme start="20261201223000 +0000" stop="20261201230000 +0000" channel="SkyNews.uk">
+    <title lang="en">The Wrap With Anna Botting</title>
+    <desc lang="en">Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/8edd86a3-1eff-4fd8-bebe-9ab85644bb25/16-9/1024" />
+  </programme>
+  <programme start="20261201230000 +0000" stop="20261201233000 +0000" channel="SkyNews.uk">
+    <title lang="en">The Wrap With Anna Botting</title>
+    <desc lang="en">Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/f64b634e-20cb-4649-aa49-7e6f63f1080d/16-9/1024" />
+  </programme>
+  <programme start="20261201233000 +0000" stop="20261202000000 +0000" channel="SkyNews.uk">
+    <title lang="en">The Wrap With Anna Botting</title>
+    <desc lang="en">Debate, analysis and insight on the biggest news stories of the day from the UK and around the world.</desc>
+    <icon src="https://images.metadata.sky.com/pd-image/c9ba1a77-d75c-4a95-81ce-1e0c19eff7b1/16-9/1024" />
   </programme>
 </tv>
